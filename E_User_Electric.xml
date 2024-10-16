@@ -1,0 +1,1323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<blocks>
+  <block id="127">
+    <fileName>RP_K-FACTOR_Variac_Monofase_FIGLIO</fileName>
+    <lastEdit>2024-10-15 14:51:33</lastEdit>
+    <category>K-FACTOR</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="126">
+    <fileName>RP_K-FACTOR_Variac_Monofase_PADRE</fileName>
+    <lastEdit>2024-10-15 14:50:51</lastEdit>
+    <category>K-FACTOR</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="125">
+    <fileName>KA_REER_MR4</fileName>
+    <lastEdit>2024-10-15 11:44:21</lastEdit>
+    <category>REER</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="124">
+    <fileName>L_Mitsubishi_FR-HEL_v2</fileName>
+    <lastEdit>2024-10-15 09:07:02</lastEdit>
+    <category>MITSUBISHI</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="123">
+    <fileName>L_Enerdoor_Harmonic_SMALL</fileName>
+    <lastEdit>2024-10-15 08:40:36</lastEdit>
+    <category>ENERDOOR</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="122">
+    <fileName>L_Enerdoor_Harmonic_BIG</fileName>
+    <lastEdit>2024-10-15 08:39:52</lastEdit>
+    <category>ENERDOOR</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="121">
+    <fileName>GB_Enerdoor_CAP</fileName>
+    <lastEdit>2024-10-15 08:38:53</lastEdit>
+    <category>ENERDOOR</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="120">
+    <fileName>FA_Enerdoor_EMC</fileName>
+    <lastEdit>2024-10-15 08:38:07</lastEdit>
+    <category>ENERDOOR</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="119">
+    <fileName>AS_Mitsubishi_FR-E800_IO_FIGLIO</fileName>
+    <lastEdit>2024-10-15 07:39:33</lastEdit>
+    <category>MITSUBISHI</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="118">
+    <fileName>AS_Mitsubishi_FR-E800_PADRE</fileName>
+    <lastEdit>2024-10-15 07:32:03</lastEdit>
+    <category>MITSUBISHI</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="117">
+    <fileName>AS_Mitsubishi_FR-A840_IO_FIGLIO</fileName>
+    <lastEdit>2024-10-15 07:23:42</lastEdit>
+    <category>MITSUBISHI</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="116">
+    <fileName>AS_Mitsubishi_FR-A840_PADRE</fileName>
+    <lastEdit>2024-10-15 07:20:22</lastEdit>
+    <category>MITSUBISHI</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="115">
+    <fileName>A_Beckhoff_EK1122_PADRE</fileName>
+    <lastEdit>2024-10-11 15:01:28</lastEdit>
+    <category>BECKHOFF_PADRI</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="114">
+    <fileName>A_Beckhoff_CX2100_PADRE</fileName>
+    <lastEdit>2024-10-11 14:51:10</lastEdit>
+    <category>BECKHOFF_PADRI</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="113">
+    <fileName>A_Beckhoff_CX2033_PADRE</fileName>
+    <lastEdit>2024-10-11 14:47:59</lastEdit>
+    <category>BECKHOFF_PADRI</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="112">
+    <fileName>A_Beckhoff_PI8_FIGLIO</fileName>
+    <lastEdit>2024-10-11 14:39:46</lastEdit>
+    <category>BECKHOFF_FIGLI</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="111">
+    <fileName>A_Beckhoff_16pin_2_PADRE</fileName>
+    <lastEdit>2024-10-11 14:30:47</lastEdit>
+    <category>BECKHOFF_PADRI</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="110">
+    <fileName>A_Beckhoff_EK1100_PADRE</fileName>
+    <lastEdit>2024-10-11 14:23:46</lastEdit>
+    <category>BECKHOFF_PADRI</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="109">
+    <fileName>A_Beckhoff_DO8_FIGLIO</fileName>
+    <lastEdit>2024-10-11 14:13:05</lastEdit>
+    <category>BECKHOFF_FIGLI</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="108">
+    <fileName>A_Beckhoff_DI8_FIGLIO</fileName>
+    <lastEdit>2024-10-11 13:52:46</lastEdit>
+    <category>BECKHOFF_FIGLI</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="107">
+    <fileName>A_Beckhoff_8pin_1_PADRE</fileName>
+    <lastEdit>2024-10-11 13:35:03</lastEdit>
+    <category>BECKHOFF_PADRI</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="106">
+    <fileName>A_Beckhoff_DO16_FIGLIO</fileName>
+    <lastEdit>2024-10-11 13:23:10</lastEdit>
+    <category>BECKHOFF_FIGLI</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="105">
+    <fileName>A_Beckhoff_DI16_FIGLIO_v6</fileName>
+    <lastEdit>2024-10-11 13:00:58</lastEdit>
+    <category>BECKHOFF_FIGLI</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="103">
+    <fileName>A_Beckhoff_16pin_1_PADRE_v3</fileName>
+    <lastEdit>2024-10-11 12:50:57</lastEdit>
+    <category>BECKHOFF_PADRI</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="98">
+    <fileName>YV_Sauter_AVF234S_v3</fileName>
+    <lastEdit>2024-10-11 11:47:34</lastEdit>
+    <category>SAUTER</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="97">
+    <fileName>YV_Re_Antlia_v2</fileName>
+    <lastEdit>2024-10-11 11:47:24</lastEdit>
+    <category>RE</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="96">
+    <fileName>YV_Caleffi_644366</fileName>
+    <lastEdit>2024-10-11 11:47:15</lastEdit>
+    <category>CALEFFI</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="95">
+    <fileName>XC_Delta_CN1_v3</fileName>
+    <lastEdit>2024-10-11 11:47:02</lastEdit>
+    <category>DELTA</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="94">
+    <fileName>VC_Ponte_Diodi</fileName>
+    <lastEdit>2024-10-11 11:46:53</lastEdit>
+    <category>GENERICO</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="93">
+    <fileName>TV_TV_Generico_2</fileName>
+    <lastEdit>2024-10-11 11:46:44</lastEdit>
+    <category>GENERICO</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="92">
+    <fileName>TA_TA_Generico_2</fileName>
+    <lastEdit>2024-10-11 11:46:37</lastEdit>
+    <category>GENERICO</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="91">
+    <fileName>TA_TA_Generico</fileName>
+    <lastEdit>2024-10-11 11:46:31</lastEdit>
+    <category>GENERICO</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="90">
+    <fileName>KP_Gefran_GTS40_v3</fileName>
+    <lastEdit>2024-10-11 11:46:19</lastEdit>
+    <category>GEFRAN</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="86">
+    <fileName>QE_Schneider_Scatoletta_Fungo3</fileName>
+    <lastEdit>2024-10-11 11:44:35</lastEdit>
+    <category>SCHNEIDER</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="85">
+    <fileName>QE_Scatola_Generica_Plastica</fileName>
+    <lastEdit>2024-10-11 11:44:24</lastEdit>
+    <category>GENERICO</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="84">
+    <fileName>QE_Rittal_SE5847.600</fileName>
+    <lastEdit>2024-10-11 11:44:11</lastEdit>
+    <category>RITTAL</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="83">
+    <fileName>QE_Rittal_SE5834.600</fileName>
+    <lastEdit>2024-10-11 11:44:03</lastEdit>
+    <category>RITTAL</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="82">
+    <fileName>QE_Rittal_AX1380000</fileName>
+    <lastEdit>2024-10-11 11:43:57</lastEdit>
+    <category>RITTAL</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="81">
+    <fileName>QE_Rittal_AX1110.000</fileName>
+    <lastEdit>2024-10-11 11:43:48</lastEdit>
+    <category>RITTAL</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="80">
+    <fileName>QE_Ilme_Pulsantiera_4pos</fileName>
+    <lastEdit>2024-10-11 11:43:25</lastEdit>
+    <category>ILME</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="79">
+    <fileName>QE_Ilme_APV14_3</fileName>
+    <lastEdit>2024-10-11 11:43:16</lastEdit>
+    <category>ILME</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="77">
+    <fileName>MS_Delta_Ecma_Semplificato_v3</fileName>
+    <lastEdit>2024-10-11 11:42:55</lastEdit>
+    <category>DELTA</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="76">
+    <fileName>MS_Delta_Ecma_Dettagliato_v3</fileName>
+    <lastEdit>2024-10-11 11:42:40</lastEdit>
+    <category>DELTA</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="75">
+    <fileName>Logo_TMC2</fileName>
+    <lastEdit>2024-10-11 11:42:30</lastEdit>
+    <category>LOGHI</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="74">
+    <fileName>Logo_TMC</fileName>
+    <lastEdit>2024-10-11 11:42:23</lastEdit>
+    <category>LOGHI</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="73">
+    <fileName>Logo_Tempra_Automation_3</fileName>
+    <lastEdit>2024-10-11 11:42:13</lastEdit>
+    <category>LOGHI</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="72">
+    <fileName>Logo_Tempra_Automation_2</fileName>
+    <lastEdit>2024-10-11 11:42:04</lastEdit>
+    <category>LOGHI</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="71">
+    <fileName>Logo_Tempra_Automation</fileName>
+    <lastEdit>2024-10-11 11:41:55</lastEdit>
+    <category>LOGHI</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="70">
+    <fileName>Logo_Condordieletric</fileName>
+    <lastEdit>2024-10-11 11:41:49</lastEdit>
+    <category>LOGHI</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="66">
+    <fileName>KR_REER_RFID</fileName>
+    <lastEdit>2024-10-11 11:41:02</lastEdit>
+    <category>REER</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="65">
+    <fileName>KA_REER_MR2</fileName>
+    <lastEdit>2024-10-11 11:40:48</lastEdit>
+    <category>REER</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="64">
+    <fileName>GF_K-FACTOR_Generatore_60Hz</fileName>
+    <lastEdit>2024-10-11 11:40:34</lastEdit>
+    <category>K-FACTOR</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="63">
+    <fileName>GF_50-60Hz_Generico</fileName>
+    <lastEdit>2024-10-11 11:40:22</lastEdit>
+    <category>GENERICO</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="62">
+    <fileName>GD_Meanwell_DRDN20-24_v3</fileName>
+    <lastEdit>2024-10-11 11:40:10</lastEdit>
+    <category>MEANWELL</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="61">
+    <fileName>GC_Mitsubishi_PowerWave33-IO</fileName>
+    <lastEdit>2024-10-11 11:39:38</lastEdit>
+    <category>MITSUBISHI</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="60">
+    <fileName>GC_Mitsubishi_Powerwave</fileName>
+    <lastEdit>2024-10-11 11:39:29</lastEdit>
+    <category>MITSUBISHI</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="57">
+    <fileName>FF_Lovato_Phase_Sequency_Relay</fileName>
+    <lastEdit>2024-10-11 11:38:52</lastEdit>
+    <category>LOVATO</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="56">
+    <fileName>FA_Schnaffer_FN3258_v3</fileName>
+    <lastEdit>2024-10-11 11:38:40</lastEdit>
+    <category>SCHNAFFER</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="55">
+    <fileName>FA_Schnaffer_FN2060_v3</fileName>
+    <lastEdit>2024-10-11 11:38:30</lastEdit>
+    <category>SCHNAFFER</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="53">
+    <fileName>EL_Werma_K37</fileName>
+    <lastEdit>2024-10-11 11:37:43</lastEdit>
+    <category>WERMA</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="52">
+    <fileName>EL_Sirena_SIR-E-LED-MAX</fileName>
+    <lastEdit>2024-10-11 11:37:32</lastEdit>
+    <category>SIRENA</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="51">
+    <fileName>EL_Sirena_Rotallarm</fileName>
+    <lastEdit>2024-10-11 11:37:17</lastEdit>
+    <category>SIRENA</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="50">
+    <fileName>EL_Sirena_LD12</fileName>
+    <lastEdit>2024-10-11 11:37:07</lastEdit>
+    <category>SIRENA</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="49">
+    <fileName>BT_Vemer_VN879300</fileName>
+    <lastEdit>2024-10-11 11:36:46</lastEdit>
+    <category>VEMER</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="48">
+    <fileName>BT_Omron_8473000000</fileName>
+    <lastEdit>2024-10-11 11:36:29</lastEdit>
+    <category>OMRON</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="47">
+    <fileName>BQ_Omron_Encoder_v3</fileName>
+    <lastEdit>2024-10-11 11:36:21</lastEdit>
+    <category>OMRON</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="46">
+    <fileName>BQ_Balluff_BIL_ED0-P160A</fileName>
+    <lastEdit>2024-10-11 11:36:06</lastEdit>
+    <category>BALLUFF</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="45">
+    <fileName>BP_Telemecanique_XMLP010BC21F</fileName>
+    <lastEdit>2024-10-11 11:35:52</lastEdit>
+    <category>TELEMECANIQUE</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="44">
+    <fileName>BP_Gicam_R175B_v3</fileName>
+    <lastEdit>2024-10-11 11:35:31</lastEdit>
+    <category>GICAM</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="43">
+    <fileName>BP_Gicam_PE20_v3</fileName>
+    <lastEdit>2024-10-11 11:35:24</lastEdit>
+    <category>GICAM</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="42">
+    <fileName>BP_Gicam_GC2_v3</fileName>
+    <lastEdit>2024-10-11 11:35:17</lastEdit>
+    <category>GICAM</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="41">
+    <fileName>BL_Telemecanique_XXS30P4AM12</fileName>
+    <lastEdit>2024-10-11 11:35:04</lastEdit>
+    <category>TELEMECANIQUE</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="40">
+    <fileName>BL_Telemecanique_XX518A3PAL2_v3</fileName>
+    <lastEdit>2024-10-11 11:34:52</lastEdit>
+    <category>TELEMECANIQUE</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="39">
+    <fileName>BB_Gevino_Alarm</fileName>
+    <lastEdit>2024-10-11 10:19:39</lastEdit>
+    <category>GEVA</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="36">
+    <fileName>AS_Delta_VFD040C43E_v3</fileName>
+    <lastEdit>2024-10-11 10:19:01</lastEdit>
+    <category>DELTA</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="35">
+    <fileName>AS_Delta_Medium_STO</fileName>
+    <lastEdit>2024-10-11 10:18:46</lastEdit>
+    <category>DELTA</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="34">
+    <fileName>AS_Delta_ASDA A2 2043-E_v3</fileName>
+    <lastEdit>2024-10-11 10:18:36</lastEdit>
+    <category>DELTA</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="33">
+    <fileName>AS_Delta_ASDA A2 1543-E_v3</fileName>
+    <lastEdit>2024-10-11 10:18:27</lastEdit>
+    <category>DELTA</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="32">
+    <fileName>AS_Delta_ASDA A2 1521-E_v3</fileName>
+    <lastEdit>2024-10-11 10:18:11</lastEdit>
+    <category>DELTA</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="31">
+    <fileName>AS_ABB_ACS550</fileName>
+    <lastEdit>2024-10-11 10:17:49</lastEdit>
+    <category>ABB</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="30">
+    <fileName>A_Weidmueller_8p_v3</fileName>
+    <lastEdit>2024-10-11 10:17:31</lastEdit>
+    <category>WEIDMUELLER</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="29">
+    <fileName>A_TrioMotion_MC664_v3</fileName>
+    <lastEdit>2024-10-11 10:17:11</lastEdit>
+    <category>TRIOMOTION</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="28">
+    <fileName>A_Siemens_5SV8704-0KK</fileName>
+    <lastEdit>2024-10-11 10:16:38</lastEdit>
+    <category>SIEMENS</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="26">
+    <fileName>A_Samsung_UE55D7000</fileName>
+    <lastEdit>2024-10-11 10:16:14</lastEdit>
+    <category>SAMSUNG</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="25">
+    <fileName>A_REER_MOR4_v3</fileName>
+    <lastEdit>2024-10-11 10:16:04</lastEdit>
+    <category>REER</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="24">
+    <fileName>A_REER_MI16</fileName>
+    <lastEdit>2024-10-11 10:15:58</lastEdit>
+    <category>REER</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="23">
+    <fileName>A_REER_MI8</fileName>
+    <lastEdit>2024-10-11 10:15:52</lastEdit>
+    <category>REER</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="22">
+    <fileName>A_REER_M1_v3</fileName>
+    <lastEdit>2024-10-11 10:15:46</lastEdit>
+    <category>REER</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="21">
+    <fileName>A_Re_T-ONE_v2</fileName>
+    <lastEdit>2024-10-11 10:15:30</lastEdit>
+    <category>RE</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="20">
+    <fileName>A_Micronova_ES3000</fileName>
+    <lastEdit>2024-10-11 10:15:19</lastEdit>
+    <category>MICRONOVA</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="19">
+    <fileName>A_HP_Elitedesk_800_G4</fileName>
+    <lastEdit>2024-10-11 10:15:04</lastEdit>
+    <category>HP</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="18">
+    <fileName>A_Gicam_RQN_v3</fileName>
+    <lastEdit>2024-10-11 10:14:50</lastEdit>
+    <category>GICAM</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="17">
+    <fileName>A_Delta_Small_STO</fileName>
+    <lastEdit>2024-10-11 10:14:38</lastEdit>
+    <category>DELTA</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="16">
+    <fileName>A_Delta_RTU-ECAT_v3</fileName>
+    <lastEdit>2024-10-11 10:14:30</lastEdit>
+    <category>DELTA</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="15">
+    <fileName>A_Delta_ECP200_BASE4</fileName>
+    <lastEdit>2024-10-11 10:14:23</lastEdit>
+    <category>DELTA</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="14">
+    <fileName>A_Delta_DVP10MC_NOIO</fileName>
+    <lastEdit>2024-10-11 10:14:16</lastEdit>
+    <category>DELTA</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="13">
+    <fileName>A_Delta_DVP04AD_v3</fileName>
+    <lastEdit>2024-10-11 10:14:07</lastEdit>
+    <category>DELTA</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="12">
+    <fileName>A_Delta_DOP-110WS</fileName>
+    <lastEdit>2024-10-11 10:14:01</lastEdit>
+    <category>DELTA</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="11">
+    <fileName>A_Cabur_Switch_5p_v3</fileName>
+    <lastEdit>2024-10-11 10:13:49</lastEdit>
+    <category>CABUR</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="10">
+    <fileName>A_Beckhoff_UPS</fileName>
+    <lastEdit>2024-10-11 10:13:37</lastEdit>
+    <category>BECKHOFF</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="9">
+    <fileName>A_Beckhoff_PLC_v3</fileName>
+    <lastEdit>2024-10-11 10:13:31</lastEdit>
+    <category>BECKHOFF</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="8">
+    <fileName>A_Beckhoff_EL9100_v3</fileName>
+    <lastEdit>2024-10-11 10:13:25</lastEdit>
+    <category>BECKHOFF</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="7">
+    <fileName>A_Beckhoff_EL_Doppio</fileName>
+    <lastEdit>2024-10-11 10:13:21</lastEdit>
+    <category>BECKHOFF</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="6">
+    <fileName>A_Beckhoff_EL_16pin_v3</fileName>
+    <lastEdit>2024-10-11 10:13:17</lastEdit>
+    <category>BECKHOFF</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="5">
+    <fileName>A_Beckhoff_EL_8pin_v3</fileName>
+    <lastEdit>2024-10-11 10:13:13</lastEdit>
+    <category>BECKHOFF</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="4">
+    <fileName>A_Beckhoff_EK1122</fileName>
+    <lastEdit>2024-10-11 10:13:06</lastEdit>
+    <category>BECKHOFF</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="3">
+    <fileName>A_Beckhoff_EK1100_v3</fileName>
+    <lastEdit>2024-10-11 10:12:45</lastEdit>
+    <category>BECKHOFF</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="2">
+    <fileName>A_Beckhoff_CX2100</fileName>
+    <lastEdit>2024-10-11 10:12:51</lastEdit>
+    <category>BECKHOFF</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="1">
+    <fileName>A_Beckhoff_CX2033</fileName>
+    <lastEdit>2024-10-11 10:12:57</lastEdit>
+    <category>BECKHOFF</category>
+    <description></description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName></tableName>
+      <x></x>
+      <y></y>
+    </crossReference>
+  </block>
+  <block id="0">
+    <fileName>A_Asus_ExpertcenterE1_v3</fileName>
+    <lastEdit>2016-01-01 00:00:00</lastEdit>
+    <category>ASUS</category>
+    <description>Panel pc asus</description>
+    <insert>NOR</insert>
+    <crossReference>
+      <tableName />
+      <x />
+      <y />
+    </crossReference>
+  </block>
+</blocks>
